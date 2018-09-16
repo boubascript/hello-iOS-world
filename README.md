@@ -1,11 +1,11 @@
 ## Hello iOS World
 
 ### App Description
-`TODO://` A simple hello world iOS app that allows a user to change text color
+A simple hello world iOS app that allows a user to change text color
 
 ### App Walk-though
 
-<img src="walkthrough.gif" width=200><br>
+<img src="walkthrough.gif" width=300><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
